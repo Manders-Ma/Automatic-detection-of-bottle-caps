@@ -22,7 +22,7 @@ step5 - Hough transform (vector space -> parameter space)
 
 step6 - bad status condition -> 80<=theta | theta<=-80  ,   good status condition -> 87<=theta | theta<=-87.
 
-step7 - If there is a bad straight line, we sat this bottle is bad status.
+step7 - If there is a bad straight line, we sa this bottle is bad status.
 
 ## Example :
 
